@@ -1,6 +1,6 @@
 {
-  "name": "mock-json",
-  "version": "1.0.0",
+  "name": "mock-jsonserver-demo",
+  "version": "0.1.0",
   "description": "mock",
   "author": "wuxj00 <wuxiaojunxp@163.com>",
   "private": true,
@@ -73,5 +73,6 @@
     "mock",
     "project"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "main": "index.js"
 }
